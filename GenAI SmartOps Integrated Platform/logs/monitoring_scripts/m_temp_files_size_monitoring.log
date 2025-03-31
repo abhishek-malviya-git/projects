@@ -1,0 +1,408 @@
+2025-03-31 16:24:54,490 - INFO - Resolved TEMP_FOLDER path: C:\Users\Dell\Documents\abhishek-malviya-git\GenAI - SmartOps Integrated Platform\testing/temp
+2025-03-31 16:24:54,490 - INFO - Resolved LOG_DIR path: C:\Users\Dell\Documents\abhishek-malviya-git\GenAI - SmartOps Integrated Platform\logs/monitoring_scripts
+2025-03-31 16:24:54,490 - INFO - \U0001f680 Folder monitoring script started... Watching: C:\Users\Dell\Documents\abhishek-malviya-git\GenAI - SmartOps Integrated Platform\testing/temp
+2025-03-31 16:24:54,490 - INFO - Monitoring folder: C:\Users\Dell\Documents\abhishek-malviya-git\GenAI - SmartOps Integrated Platform\testing/temp
+2025-03-31 16:24:54,506 - INFO - Current folder size: 0.00 MB
+2025-03-31 16:25:14,508 - INFO - Current folder size: 0.00 MB
+2025-03-31 16:25:34,511 - INFO - Current folder size: 1.01 MB
+2025-03-31 16:25:54,515 - INFO - Current folder size: 1.01 MB
+2025-03-31 16:26:14,522 - INFO - Current folder size: 1.01 MB
+2025-03-31 16:26:34,523 - INFO - Current folder size: 5.25 MB
+2025-03-31 16:26:34,523 - WARNING - Folder size exceeded 5 MB! Sending alert...
+2025-03-31 16:26:41,577 - ERROR - Failed to send alert: HTTPConnectionPool(host='localhost', port=5006): Read timed out. (read timeout=5)
+2025-03-31 16:27:01,580 - INFO - Current folder size: 0.00 MB
+2025-03-31 16:27:21,581 - INFO - Current folder size: 0.00 MB
+2025-03-31 16:27:41,583 - INFO - Current folder size: 0.00 MB
+2025-03-31 16:28:01,593 - INFO - Current folder size: 0.72 MB
+2025-03-31 16:28:21,596 - INFO - Current folder size: 0.72 MB
+2025-03-31 16:28:41,598 - INFO - Current folder size: 4.96 MB
+2025-03-31 16:29:01,600 - INFO - Current folder size: 4.96 MB
+2025-03-31 16:29:21,605 - INFO - Current folder size: 4.96 MB
+2025-03-31 16:29:41,607 - INFO - Current folder size: 18.75 MB
+2025-03-31 16:29:41,607 - WARNING - Folder size exceeded 5 MB! Sending alert...
+2025-03-31 16:29:44,361 - INFO - Alert sent successfully: {'alert_message': 'Temp folder size exceeded 5 MB', 'execution_result': 'Temporary Folder Cleanup Completed\n\n Total Files Deleted: 14\n\n Deleted Files:\n   1. 2. First Agent-Device Search.mp4\n   2. Abhishek Malviya Analytics Resume.pdf\n   3. Candidate_consent_form_Non_EU.DOCX\n   4. Change.xlsx\n   5. innobots-main.zip\n   6. langgraph_device_search_agent.py\n   7. network_knowledge_base.txt\n   8. pandas dataframe notes.pdf\n   9. pandas questions.ipynb\n   10. rag_system_updated (1).py\n   11. Untitled3.ipynb\n   12. update_gradio_app.py\n   13. vs_BuildTools.exe\n   14. WhatsApp Image 2025-03-07 at 11.55.15 AM.jpeg', 'status': 'success'}
+2025-03-31 16:30:04,362 - INFO - Current folder size: 0.00 MB
+2025-03-31 16:30:24,365 - INFO - Current folder size: 0.00 MB
+2025-03-31 16:30:44,366 - INFO - Current folder size: 0.00 MB
+2025-03-31 16:31:04,369 - INFO - Current folder size: 0.00 MB
+2025-03-31 16:31:24,371 - INFO - Current folder size: 0.00 MB
+2025-03-31 16:31:44,373 - INFO - Current folder size: 0.00 MB
+2025-03-31 16:32:04,374 - INFO - Current folder size: 0.00 MB
+2025-03-31 16:32:24,378 - INFO - Current folder size: 13.87 MB
+2025-03-31 16:32:24,378 - WARNING - Folder size exceeded 5 MB! Sending alert...
+2025-03-31 16:32:31,020 - INFO - Alert sent successfully: {'alert_message': 'Temp folder size exceeded 5 MB', 'execution_result': 'Temporary Folder Cleanup Completed\n\n Total Files Deleted: 7\n\n Deleted Files:\n   1. 2. First Agent-Device Search.mp4\n   2. Change.xlsx\n   3. langgraph_device_search_agent.py\n   4. network_knowledge_base.txt\n   5. rag_system_updated (1).py\n   6. README.txt\n   7. requirements.txt', 'status': 'success'}
+2025-03-31 16:32:51,021 - INFO - Current folder size: 0.00 MB
+2025-03-31 16:33:11,022 - INFO - Current folder size: 0.00 MB
+2025-03-31 16:33:31,024 - INFO - Current folder size: 0.00 MB
+2025-03-31 16:33:51,025 - INFO - Current folder size: 0.00 MB
+2025-03-31 16:34:11,027 - INFO - Current folder size: 0.00 MB
+2025-03-31 16:34:31,028 - INFO - Current folder size: 0.00 MB
+2025-03-31 16:34:51,031 - INFO - Current folder size: 0.00 MB
+2025-03-31 16:35:11,034 - INFO - Current folder size: 0.00 MB
+2025-03-31 16:35:31,042 - INFO - Current folder size: 0.00 MB
+2025-03-31 16:35:51,044 - INFO - Current folder size: 0.00 MB
+2025-03-31 16:36:11,045 - INFO - Current folder size: 0.00 MB
+2025-03-31 16:36:31,045 - INFO - Current folder size: 0.00 MB
+2025-03-31 16:36:51,048 - INFO - Current folder size: 0.00 MB
+2025-03-31 16:37:11,051 - INFO - Current folder size: 0.00 MB
+2025-03-31 16:37:31,052 - INFO - Current folder size: 0.00 MB
+2025-03-31 16:37:51,053 - INFO - Current folder size: 0.00 MB
+2025-03-31 16:38:11,058 - INFO - Current folder size: 0.00 MB
+2025-03-31 16:38:31,059 - INFO - Current folder size: 0.00 MB
+2025-03-31 16:38:51,062 - INFO - Current folder size: 0.00 MB
+2025-03-31 16:39:11,062 - INFO - Current folder size: 0.00 MB
+2025-03-31 16:39:31,064 - INFO - Current folder size: 0.00 MB
+2025-03-31 16:39:51,067 - INFO - Current folder size: 0.00 MB
+2025-03-31 16:40:11,072 - INFO - Current folder size: 0.00 MB
+2025-03-31 16:40:31,072 - INFO - Current folder size: 0.00 MB
+2025-03-31 16:40:51,073 - INFO - Current folder size: 0.00 MB
+2025-03-31 16:41:11,074 - INFO - Current folder size: 0.00 MB
+2025-03-31 16:41:31,075 - INFO - Current folder size: 0.00 MB
+2025-03-31 16:41:51,076 - INFO - Current folder size: 0.00 MB
+2025-03-31 16:42:11,079 - INFO - Current folder size: 0.00 MB
+2025-03-31 16:42:31,080 - INFO - Current folder size: 0.00 MB
+2025-03-31 16:42:51,082 - INFO - Current folder size: 0.00 MB
+2025-03-31 16:43:11,083 - INFO - Current folder size: 0.00 MB
+2025-03-31 16:43:31,085 - INFO - Current folder size: 0.00 MB
+2025-03-31 16:43:51,087 - INFO - Current folder size: 0.00 MB
+2025-03-31 16:44:11,088 - INFO - Current folder size: 0.00 MB
+2025-03-31 16:44:31,089 - INFO - Current folder size: 0.00 MB
+2025-03-31 16:44:51,091 - INFO - Current folder size: 0.00 MB
+2025-03-31 16:45:11,094 - INFO - Current folder size: 0.00 MB
+2025-03-31 16:45:31,095 - INFO - Current folder size: 0.00 MB
+2025-03-31 16:45:51,095 - INFO - Current folder size: 0.00 MB
+2025-03-31 16:46:11,096 - INFO - Current folder size: 0.00 MB
+2025-03-31 16:46:31,098 - INFO - Current folder size: 0.00 MB
+2025-03-31 16:46:51,100 - INFO - Current folder size: 0.00 MB
+2025-03-31 16:47:11,100 - INFO - Current folder size: 0.00 MB
+2025-03-31 16:47:31,101 - INFO - Current folder size: 0.00 MB
+2025-03-31 16:47:51,103 - INFO - Current folder size: 0.00 MB
+2025-03-31 16:48:11,104 - INFO - Current folder size: 0.00 MB
+2025-03-31 16:48:31,105 - INFO - Current folder size: 0.00 MB
+2025-03-31 16:48:51,107 - INFO - Current folder size: 0.00 MB
+2025-03-31 16:49:11,108 - INFO - Current folder size: 0.00 MB
+2025-03-31 16:49:31,109 - INFO - Current folder size: 0.00 MB
+2025-03-31 16:49:51,110 - INFO - Current folder size: 0.00 MB
+2025-03-31 16:50:11,112 - INFO - Current folder size: 0.00 MB
+2025-03-31 16:50:31,114 - INFO - Current folder size: 0.00 MB
+2025-03-31 16:50:51,115 - INFO - Current folder size: 0.00 MB
+2025-03-31 16:51:11,116 - INFO - Current folder size: 0.00 MB
+2025-03-31 16:51:31,117 - INFO - Current folder size: 0.00 MB
+2025-03-31 16:51:51,118 - INFO - Current folder size: 0.00 MB
+2025-03-31 16:52:11,120 - INFO - Current folder size: 0.00 MB
+2025-03-31 16:52:31,120 - INFO - Current folder size: 0.00 MB
+2025-03-31 16:52:51,131 - INFO - Current folder size: 0.00 MB
+2025-03-31 16:53:11,135 - INFO - Current folder size: 0.00 MB
+2025-03-31 16:53:31,137 - INFO - Current folder size: 0.00 MB
+2025-03-31 16:53:51,137 - INFO - Current folder size: 0.00 MB
+2025-03-31 16:54:11,138 - INFO - Current folder size: 0.00 MB
+2025-03-31 16:54:31,141 - INFO - Current folder size: 0.00 MB
+2025-03-31 16:54:51,143 - INFO - Current folder size: 0.00 MB
+2025-03-31 16:55:11,144 - INFO - Current folder size: 0.00 MB
+2025-03-31 16:55:31,145 - INFO - Current folder size: 0.00 MB
+2025-03-31 16:55:51,147 - INFO - Current folder size: 0.00 MB
+2025-03-31 16:56:11,147 - INFO - Current folder size: 0.00 MB
+2025-03-31 16:56:31,148 - INFO - Current folder size: 0.00 MB
+2025-03-31 16:56:51,148 - INFO - Current folder size: 0.00 MB
+2025-03-31 16:57:11,150 - INFO - Current folder size: 0.00 MB
+2025-03-31 16:57:31,151 - INFO - Current folder size: 0.00 MB
+2025-03-31 16:57:51,151 - INFO - Current folder size: 0.00 MB
+2025-03-31 16:58:11,154 - INFO - Current folder size: 0.00 MB
+2025-03-31 16:58:31,156 - INFO - Current folder size: 0.00 MB
+2025-03-31 16:58:51,157 - INFO - Current folder size: 0.00 MB
+2025-03-31 16:59:11,158 - INFO - Current folder size: 0.00 MB
+2025-03-31 16:59:31,159 - INFO - Current folder size: 0.00 MB
+2025-03-31 16:59:51,160 - INFO - Current folder size: 0.00 MB
+2025-03-31 17:00:11,161 - INFO - Current folder size: 0.00 MB
+2025-03-31 17:00:31,163 - INFO - Current folder size: 0.00 MB
+2025-03-31 18:06:20,565 - INFO - Resolved TEMP_FOLDER path: C:\Users\Dell\Documents\abhishek-malviya-git\GenAI - SmartOps Integrated Platform - Copy\data\temp
+2025-03-31 18:06:20,572 - INFO - Resolved LOG_DIR path: C:\Users\Dell\Documents\abhishek-malviya-git\GenAI - SmartOps Integrated Platform - Copy\logs\monitoring_scripts
+2025-03-31 18:06:20,572 - INFO - \U0001f680 Folder monitoring script started... Watching: C:\Users\Dell\Documents\abhishek-malviya-git\GenAI - SmartOps Integrated Platform - Copy\data\temp
+2025-03-31 18:06:20,572 - INFO - Monitoring folder: C:\Users\Dell\Documents\abhishek-malviya-git\GenAI - SmartOps Integrated Platform - Copy\data\temp
+2025-03-31 18:06:20,572 - INFO - Current folder size: 0.00 MB
+2025-03-31 18:06:40,574 - INFO - Current folder size: 0.00 MB
+2025-03-31 18:07:00,582 - INFO - Current folder size: 0.27 MB
+2025-03-31 18:07:20,589 - INFO - Current folder size: 0.27 MB
+2025-03-31 18:07:40,615 - INFO - Current folder size: 14.05 MB
+2025-03-31 18:07:40,616 - WARNING - Folder size exceeded 5 MB! Sending alert...
+2025-03-31 18:07:43,474 - INFO - Alert sent successfully: {'alert_message': 'Temp folder size exceeded 5 MB', 'execution_result': 'Temporary Folder Cleanup Completed\n\n Folder Path: C:\\Users\\Dell\\Documents\\abhishek-malviya-git\\GenAI - SmartOps Integrated Platform - Copy\\data\\temp\n Total Files Deleted: 10\n\n Deleted Files:\n   1. 2. First Agent-Device Search.mp4\n   2. Candidate_consent_form_Non_EU.DOCX\n   3. Change.xlsx\n   4. langgraph_device_search_agent.py\n   5. network_knowledge_base.txt\n   6. pandas questions.ipynb\n   7. rag_system_updated (1).py\n   8. Untitled3.ipynb\n   9. update_gradio_app.py\n   10. WhatsApp Image 2025-03-07 at 11.55.15 AM.jpeg', 'status': 'success'}
+2025-03-31 18:08:03,475 - INFO - Current folder size: 0.00 MB
+2025-03-31 18:08:23,476 - INFO - Current folder size: 0.00 MB
+2025-03-31 18:08:43,478 - INFO - Current folder size: 0.00 MB
+2025-03-31 18:09:03,482 - INFO - Current folder size: 0.00 MB
+2025-03-31 18:09:23,485 - INFO - Current folder size: 0.00 MB
+2025-03-31 18:09:43,488 - INFO - Current folder size: 0.00 MB
+2025-03-31 18:10:03,490 - INFO - Current folder size: 0.00 MB
+2025-03-31 18:10:23,490 - INFO - Current folder size: 0.00 MB
+2025-03-31 18:10:43,492 - INFO - Current folder size: 0.00 MB
+2025-03-31 18:11:03,493 - INFO - Current folder size: 0.00 MB
+2025-03-31 18:11:23,531 - INFO - Current folder size: 0.00 MB
+2025-03-31 18:11:43,532 - INFO - Current folder size: 0.00 MB
+2025-03-31 18:12:03,533 - INFO - Current folder size: 0.00 MB
+2025-03-31 18:12:23,533 - INFO - Current folder size: 0.00 MB
+2025-03-31 18:12:43,535 - INFO - Current folder size: 0.00 MB
+2025-03-31 18:13:03,536 - INFO - Current folder size: 0.00 MB
+2025-03-31 18:13:23,538 - INFO - Current folder size: 0.00 MB
+2025-03-31 18:13:43,540 - INFO - Current folder size: 0.00 MB
+2025-03-31 18:14:03,557 - INFO - Current folder size: 0.00 MB
+2025-03-31 18:14:23,558 - INFO - Current folder size: 0.00 MB
+2025-03-31 18:14:43,559 - INFO - Current folder size: 0.00 MB
+2025-03-31 18:15:03,561 - INFO - Current folder size: 0.00 MB
+2025-03-31 18:15:23,562 - INFO - Current folder size: 0.00 MB
+2025-03-31 18:15:43,563 - INFO - Current folder size: 0.00 MB
+2025-03-31 18:16:03,564 - INFO - Current folder size: 0.00 MB
+2025-03-31 18:16:23,566 - INFO - Current folder size: 0.00 MB
+2025-03-31 18:16:43,567 - INFO - Current folder size: 0.00 MB
+2025-03-31 18:17:03,568 - INFO - Current folder size: 0.00 MB
+2025-03-31 18:17:23,568 - INFO - Current folder size: 0.00 MB
+2025-03-31 18:17:43,570 - INFO - Current folder size: 0.00 MB
+2025-03-31 18:18:03,572 - INFO - Current folder size: 0.00 MB
+2025-03-31 18:18:23,572 - INFO - Current folder size: 0.00 MB
+2025-03-31 18:18:43,573 - INFO - Current folder size: 0.00 MB
+2025-03-31 18:19:03,575 - INFO - Current folder size: 0.00 MB
+2025-03-31 18:19:23,576 - INFO - Current folder size: 0.00 MB
+2025-03-31 18:19:43,577 - INFO - Current folder size: 0.00 MB
+2025-03-31 18:20:03,579 - INFO - Current folder size: 0.00 MB
+2025-03-31 18:20:23,582 - INFO - Current folder size: 0.00 MB
+2025-03-31 18:20:43,583 - INFO - Current folder size: 0.00 MB
+2025-03-31 18:21:03,583 - INFO - Current folder size: 0.00 MB
+2025-03-31 18:21:23,587 - INFO - Current folder size: 0.00 MB
+2025-03-31 18:21:43,589 - INFO - Current folder size: 0.00 MB
+2025-03-31 18:22:03,591 - INFO - Current folder size: 0.00 MB
+2025-03-31 18:22:23,592 - INFO - Current folder size: 0.00 MB
+2025-03-31 18:22:43,596 - INFO - Current folder size: 0.00 MB
+2025-03-31 18:23:03,598 - INFO - Current folder size: 0.00 MB
+2025-03-31 18:23:23,599 - INFO - Current folder size: 0.00 MB
+2025-03-31 18:23:43,601 - INFO - Current folder size: 0.00 MB
+2025-03-31 18:24:03,602 - INFO - Current folder size: 0.00 MB
+2025-03-31 18:24:23,604 - INFO - Current folder size: 0.00 MB
+2025-03-31 18:24:43,605 - INFO - Current folder size: 0.00 MB
+2025-03-31 18:25:03,607 - INFO - Current folder size: 0.00 MB
+2025-03-31 18:25:23,608 - INFO - Current folder size: 0.00 MB
+2025-03-31 18:25:43,610 - INFO - Current folder size: 0.00 MB
+2025-03-31 18:26:03,612 - INFO - Current folder size: 0.00 MB
+2025-03-31 18:26:23,636 - INFO - Current folder size: 0.00 MB
+2025-03-31 18:26:43,640 - INFO - Current folder size: 0.00 MB
+2025-03-31 18:27:03,641 - INFO - Current folder size: 0.00 MB
+2025-03-31 18:27:23,642 - INFO - Current folder size: 0.00 MB
+2025-03-31 18:27:43,642 - INFO - Current folder size: 0.00 MB
+2025-03-31 18:28:03,643 - INFO - Current folder size: 0.00 MB
+2025-03-31 18:28:23,644 - INFO - Current folder size: 0.00 MB
+2025-03-31 18:28:43,645 - INFO - Current folder size: 0.00 MB
+2025-03-31 18:29:03,647 - INFO - Current folder size: 0.00 MB
+2025-03-31 18:29:23,649 - INFO - Current folder size: 0.00 MB
+2025-03-31 18:29:43,650 - INFO - Current folder size: 0.00 MB
+2025-03-31 18:30:03,651 - INFO - Current folder size: 0.00 MB
+2025-03-31 18:30:23,653 - INFO - Current folder size: 0.00 MB
+2025-03-31 18:30:43,654 - INFO - Current folder size: 0.00 MB
+2025-03-31 18:31:03,654 - INFO - Current folder size: 0.00 MB
+2025-03-31 18:31:23,655 - INFO - Current folder size: 0.00 MB
+2025-03-31 18:31:43,656 - INFO - Current folder size: 0.00 MB
+2025-03-31 18:32:03,657 - INFO - Current folder size: 0.00 MB
+2025-03-31 18:32:23,667 - INFO - Current folder size: 0.00 MB
+2025-03-31 18:32:43,671 - INFO - Current folder size: 0.00 MB
+2025-03-31 18:33:03,672 - INFO - Current folder size: 0.00 MB
+2025-03-31 18:33:23,674 - INFO - Current folder size: 0.00 MB
+2025-03-31 18:33:43,675 - INFO - Current folder size: 0.00 MB
+2025-03-31 18:34:03,676 - INFO - Current folder size: 0.00 MB
+2025-03-31 18:34:23,678 - INFO - Current folder size: 0.00 MB
+2025-03-31 18:34:43,679 - INFO - Current folder size: 0.00 MB
+2025-03-31 18:35:03,680 - INFO - Current folder size: 0.00 MB
+2025-03-31 18:35:23,681 - INFO - Current folder size: 0.00 MB
+2025-03-31 18:35:43,682 - INFO - Current folder size: 0.00 MB
+2025-03-31 18:36:03,683 - INFO - Current folder size: 0.00 MB
+2025-03-31 18:36:23,684 - INFO - Current folder size: 0.00 MB
+2025-03-31 18:36:43,685 - INFO - Current folder size: 0.00 MB
+2025-03-31 18:37:03,687 - INFO - Current folder size: 0.00 MB
+2025-03-31 18:37:23,688 - INFO - Current folder size: 0.00 MB
+2025-03-31 18:37:43,689 - INFO - Current folder size: 0.00 MB
+2025-03-31 18:38:03,690 - INFO - Current folder size: 0.00 MB
+2025-03-31 18:38:23,691 - INFO - Current folder size: 0.00 MB
+2025-03-31 18:38:43,691 - INFO - Current folder size: 0.00 MB
+2025-03-31 18:39:03,693 - INFO - Current folder size: 0.00 MB
+2025-03-31 18:39:23,694 - INFO - Current folder size: 0.00 MB
+2025-03-31 18:39:43,696 - INFO - Current folder size: 0.00 MB
+2025-03-31 18:40:03,696 - INFO - Current folder size: 0.00 MB
+2025-03-31 18:40:23,698 - INFO - Current folder size: 0.00 MB
+2025-03-31 18:40:43,699 - INFO - Current folder size: 0.00 MB
+2025-03-31 18:41:03,700 - INFO - Current folder size: 0.00 MB
+2025-03-31 18:41:23,701 - INFO - Current folder size: 0.00 MB
+2025-03-31 18:41:43,702 - INFO - Current folder size: 0.00 MB
+2025-03-31 18:42:03,702 - INFO - Current folder size: 0.00 MB
+2025-03-31 18:42:23,703 - INFO - Current folder size: 0.00 MB
+2025-03-31 18:42:43,705 - INFO - Current folder size: 0.00 MB
+2025-03-31 18:43:03,706 - INFO - Current folder size: 0.00 MB
+2025-03-31 18:43:23,750 - INFO - Current folder size: 0.00 MB
+2025-03-31 18:43:43,751 - INFO - Current folder size: 0.00 MB
+2025-03-31 18:44:03,752 - INFO - Current folder size: 0.00 MB
+2025-03-31 18:44:23,754 - INFO - Current folder size: 0.00 MB
+2025-03-31 18:44:43,755 - INFO - Current folder size: 0.00 MB
+2025-03-31 18:45:03,756 - INFO - Current folder size: 0.00 MB
+2025-03-31 18:45:23,756 - INFO - Current folder size: 0.00 MB
+2025-03-31 18:45:43,757 - INFO - Current folder size: 0.00 MB
+2025-03-31 18:46:03,758 - INFO - Current folder size: 0.00 MB
+2025-03-31 18:46:23,758 - INFO - Current folder size: 0.00 MB
+2025-03-31 18:46:43,759 - INFO - Current folder size: 0.00 MB
+2025-03-31 18:47:03,760 - INFO - Current folder size: 0.00 MB
+2025-03-31 18:47:23,761 - INFO - Current folder size: 0.00 MB
+2025-03-31 18:47:43,762 - INFO - Current folder size: 0.00 MB
+2025-03-31 18:48:03,762 - INFO - Current folder size: 0.00 MB
+2025-03-31 18:48:23,764 - INFO - Current folder size: 0.00 MB
+2025-03-31 18:48:43,765 - INFO - Current folder size: 0.00 MB
+2025-03-31 18:49:03,766 - INFO - Current folder size: 0.00 MB
+2025-03-31 18:49:23,767 - INFO - Current folder size: 0.00 MB
+2025-03-31 18:49:43,768 - INFO - Current folder size: 0.00 MB
+2025-03-31 18:50:03,769 - INFO - Current folder size: 0.00 MB
+2025-03-31 18:50:23,770 - INFO - Current folder size: 0.00 MB
+2025-03-31 18:50:43,771 - INFO - Current folder size: 0.00 MB
+2025-03-31 18:51:03,771 - INFO - Current folder size: 0.00 MB
+2025-03-31 18:51:23,772 - INFO - Current folder size: 0.00 MB
+2025-03-31 18:51:43,773 - INFO - Current folder size: 0.00 MB
+2025-03-31 18:52:03,774 - INFO - Current folder size: 0.00 MB
+2025-03-31 18:52:23,775 - INFO - Current folder size: 0.00 MB
+2025-03-31 18:52:43,776 - INFO - Current folder size: 0.00 MB
+2025-03-31 18:53:03,776 - INFO - Current folder size: 0.00 MB
+2025-03-31 18:53:23,778 - INFO - Current folder size: 0.00 MB
+2025-03-31 18:53:43,784 - INFO - Current folder size: 0.00 MB
+2025-03-31 18:54:03,785 - INFO - Current folder size: 0.00 MB
+2025-03-31 18:54:23,789 - INFO - Current folder size: 0.00 MB
+2025-03-31 18:54:43,791 - INFO - Current folder size: 0.00 MB
+2025-03-31 18:55:03,791 - INFO - Current folder size: 0.00 MB
+2025-03-31 18:55:23,793 - INFO - Current folder size: 0.00 MB
+2025-03-31 18:55:43,794 - INFO - Current folder size: 0.00 MB
+2025-03-31 18:56:03,795 - INFO - Current folder size: 0.00 MB
+2025-03-31 18:56:23,796 - INFO - Current folder size: 0.00 MB
+2025-03-31 18:56:43,797 - INFO - Current folder size: 0.00 MB
+2025-03-31 18:57:03,797 - INFO - Current folder size: 0.00 MB
+2025-03-31 18:57:23,799 - INFO - Current folder size: 0.00 MB
+2025-03-31 18:57:43,802 - INFO - Current folder size: 0.00 MB
+2025-03-31 18:58:03,802 - INFO - Current folder size: 0.00 MB
+2025-03-31 18:58:23,803 - INFO - Current folder size: 0.00 MB
+2025-03-31 18:58:43,804 - INFO - Current folder size: 0.00 MB
+2025-03-31 18:59:03,805 - INFO - Current folder size: 0.00 MB
+2025-03-31 18:59:23,807 - INFO - Current folder size: 0.00 MB
+2025-03-31 18:59:43,809 - INFO - Current folder size: 0.00 MB
+2025-03-31 19:00:03,809 - INFO - Current folder size: 0.00 MB
+2025-03-31 19:00:23,811 - INFO - Current folder size: 0.00 MB
+2025-03-31 19:00:43,813 - INFO - Current folder size: 0.00 MB
+2025-03-31 19:01:03,813 - INFO - Current folder size: 0.00 MB
+2025-03-31 19:01:23,815 - INFO - Current folder size: 0.00 MB
+2025-03-31 19:01:43,815 - INFO - Current folder size: 0.00 MB
+2025-03-31 19:02:03,816 - INFO - Current folder size: 0.00 MB
+2025-03-31 19:02:23,817 - INFO - Current folder size: 0.00 MB
+2025-03-31 19:02:43,818 - INFO - Current folder size: 0.00 MB
+2025-03-31 19:03:03,820 - INFO - Current folder size: 0.00 MB
+2025-03-31 19:03:23,822 - INFO - Current folder size: 0.00 MB
+2025-03-31 19:03:43,822 - INFO - Current folder size: 0.00 MB
+2025-03-31 19:04:03,823 - INFO - Current folder size: 0.00 MB
+2025-03-31 19:04:23,825 - INFO - Current folder size: 0.00 MB
+2025-03-31 19:04:43,825 - INFO - Current folder size: 0.00 MB
+2025-03-31 19:05:03,826 - INFO - Current folder size: 0.00 MB
+2025-03-31 19:05:23,827 - INFO - Current folder size: 0.00 MB
+2025-03-31 19:05:43,828 - INFO - Current folder size: 0.00 MB
+2025-03-31 19:06:03,829 - INFO - Current folder size: 0.00 MB
+2025-03-31 19:06:23,829 - INFO - Current folder size: 0.00 MB
+2025-03-31 19:06:43,830 - INFO - Current folder size: 0.00 MB
+2025-03-31 19:07:03,832 - INFO - Current folder size: 0.00 MB
+2025-03-31 19:07:23,833 - INFO - Current folder size: 0.00 MB
+2025-03-31 19:07:43,833 - INFO - Current folder size: 0.00 MB
+2025-03-31 19:08:03,834 - INFO - Current folder size: 0.00 MB
+2025-03-31 19:08:23,835 - INFO - Current folder size: 0.00 MB
+2025-03-31 19:08:43,837 - INFO - Current folder size: 0.00 MB
+2025-03-31 19:09:03,838 - INFO - Current folder size: 0.00 MB
+2025-03-31 19:09:23,838 - INFO - Current folder size: 0.00 MB
+2025-03-31 19:09:43,840 - INFO - Current folder size: 0.00 MB
+2025-03-31 19:10:03,841 - INFO - Current folder size: 0.00 MB
+2025-03-31 19:10:23,842 - INFO - Current folder size: 0.00 MB
+2025-03-31 19:10:43,844 - INFO - Current folder size: 0.00 MB
+2025-03-31 19:11:03,844 - INFO - Current folder size: 0.00 MB
+2025-03-31 19:11:23,845 - INFO - Current folder size: 0.00 MB
+2025-03-31 19:11:43,846 - INFO - Current folder size: 0.00 MB
+2025-03-31 19:12:03,847 - INFO - Current folder size: 0.00 MB
+2025-03-31 19:12:23,848 - INFO - Current folder size: 0.00 MB
+2025-03-31 19:12:43,849 - INFO - Current folder size: 0.00 MB
+2025-03-31 19:13:03,850 - INFO - Current folder size: 0.00 MB
+2025-03-31 19:13:23,853 - INFO - Current folder size: 0.00 MB
+2025-03-31 19:13:43,853 - INFO - Current folder size: 0.00 MB
+2025-03-31 19:14:03,854 - INFO - Current folder size: 0.00 MB
+2025-03-31 19:14:23,855 - INFO - Current folder size: 0.00 MB
+2025-03-31 19:14:43,856 - INFO - Current folder size: 0.00 MB
+2025-03-31 19:15:03,865 - INFO - Current folder size: 0.00 MB
+2025-03-31 19:15:23,866 - INFO - Current folder size: 0.00 MB
+2025-03-31 19:15:43,867 - INFO - Current folder size: 0.00 MB
+2025-03-31 19:16:03,868 - INFO - Current folder size: 0.00 MB
+2025-03-31 19:16:23,868 - INFO - Current folder size: 0.00 MB
+2025-03-31 19:16:43,869 - INFO - Current folder size: 0.00 MB
+2025-03-31 19:17:03,871 - INFO - Current folder size: 0.00 MB
+2025-03-31 19:17:23,871 - INFO - Current folder size: 0.00 MB
+2025-03-31 19:17:43,873 - INFO - Current folder size: 0.00 MB
+2025-03-31 19:18:03,884 - INFO - Current folder size: 0.00 MB
+2025-03-31 19:18:23,885 - INFO - Current folder size: 0.00 MB
+2025-03-31 19:18:43,886 - INFO - Current folder size: 0.00 MB
+2025-03-31 19:19:03,888 - INFO - Current folder size: 0.00 MB
+2025-03-31 19:19:23,889 - INFO - Current folder size: 0.00 MB
+2025-03-31 19:19:43,890 - INFO - Current folder size: 0.00 MB
+2025-03-31 19:20:03,893 - INFO - Current folder size: 0.00 MB
+2025-03-31 19:20:23,896 - INFO - Current folder size: 0.00 MB
+2025-03-31 19:20:43,897 - INFO - Current folder size: 0.00 MB
+2025-03-31 19:21:03,898 - INFO - Current folder size: 0.00 MB
+2025-03-31 19:21:23,900 - INFO - Current folder size: 0.00 MB
+2025-03-31 19:21:43,901 - INFO - Current folder size: 0.00 MB
+2025-03-31 19:22:03,903 - INFO - Current folder size: 0.00 MB
+2025-03-31 19:22:23,905 - INFO - Current folder size: 0.00 MB
+2025-03-31 19:22:43,907 - INFO - Current folder size: 0.00 MB
+2025-03-31 19:23:03,916 - INFO - Current folder size: 0.00 MB
+2025-03-31 19:23:23,918 - INFO - Current folder size: 0.00 MB
+2025-03-31 19:23:43,920 - INFO - Current folder size: 0.00 MB
+2025-03-31 19:24:03,924 - INFO - Current folder size: 0.00 MB
+2025-03-31 19:24:23,929 - INFO - Current folder size: 0.00 MB
+2025-03-31 19:24:43,930 - INFO - Current folder size: 0.00 MB
+2025-03-31 19:25:03,953 - INFO - Current folder size: 0.00 MB
+2025-03-31 19:25:23,953 - INFO - Current folder size: 0.00 MB
+2025-03-31 19:25:43,954 - INFO - Current folder size: 0.00 MB
+2025-03-31 19:26:03,957 - INFO - Current folder size: 0.00 MB
+2025-03-31 19:26:23,958 - INFO - Current folder size: 0.00 MB
+2025-03-31 19:26:43,959 - INFO - Current folder size: 0.00 MB
+2025-03-31 19:27:03,962 - INFO - Current folder size: 0.00 MB
+2025-03-31 19:27:23,963 - INFO - Current folder size: 0.00 MB
+2025-03-31 19:27:43,964 - INFO - Current folder size: 0.00 MB
+2025-03-31 19:28:03,968 - INFO - Current folder size: 0.00 MB
+2025-03-31 19:28:23,974 - INFO - Current folder size: 0.00 MB
+2025-03-31 19:28:43,975 - INFO - Current folder size: 0.00 MB
+2025-03-31 19:29:03,977 - INFO - Current folder size: 0.00 MB
+2025-03-31 19:29:23,978 - INFO - Current folder size: 0.00 MB
+2025-03-31 19:29:43,984 - INFO - Current folder size: 0.00 MB
+2025-03-31 19:30:03,986 - INFO - Current folder size: 0.00 MB
+2025-03-31 19:30:23,994 - INFO - Current folder size: 0.00 MB
+2025-03-31 19:30:43,996 - INFO - Current folder size: 0.00 MB
+2025-03-31 19:31:03,997 - INFO - Current folder size: 0.00 MB
+2025-03-31 19:31:23,998 - INFO - Current folder size: 0.00 MB
+2025-03-31 19:31:43,999 - INFO - Current folder size: 0.00 MB
+2025-03-31 19:32:04,000 - INFO - Current folder size: 0.00 MB
+2025-03-31 19:32:24,002 - INFO - Current folder size: 0.00 MB
+2025-03-31 19:43:28,497 - INFO - Resolved TEMP_FOLDER path: C:\Users\Dell\Documents\abhishek-malviya-git\GenAI - SmartOps Integrated Platform - Copy\data\temp
+2025-03-31 19:43:28,497 - INFO - Resolved LOG_DIR path: C:\Users\Dell\Documents\abhishek-malviya-git\GenAI - SmartOps Integrated Platform - Copy\logs\monitoring_scripts
+2025-03-31 19:56:51,100 - INFO - Resolved TEMP_FOLDER path: C:\Users\Dell\Documents\abhishek-malviya-git\GenAI - SmartOps Integrated Platform - Copy\data\temp
+2025-03-31 19:56:51,100 - INFO - Resolved LOG_DIR path: C:\Users\Dell\Documents\abhishek-malviya-git\GenAI - SmartOps Integrated Platform - Copy\logs\monitoring_scripts
+2025-03-31 19:58:06,918 - INFO - Resolved TEMP_FOLDER path: C:\Users\Dell\Documents\abhishek-malviya-git\GenAI - SmartOps Integrated Platform - Copy\data\temp
+2025-03-31 19:58:06,918 - INFO - Resolved LOG_DIR path: C:\Users\Dell\Documents\abhishek-malviya-git\GenAI - SmartOps Integrated Platform - Copy\logs\monitoring_scripts
+2025-03-31 20:01:51,711 - INFO - Resolved TEMP_FOLDER path: C:\Users\Dell\Documents\abhishek-malviya-git\GenAI - SmartOps Integrated Platform - Copy\data\temp
+2025-03-31 20:01:51,711 - INFO - Resolved LOG_DIR path: C:\Users\Dell\Documents\abhishek-malviya-git\GenAI - SmartOps Integrated Platform - Copy\logs\monitoring_scripts
+2025-03-31 20:50:06,781 - INFO - Resolved TEMP_FOLDER path: C:\Users\Dell\Documents\abhishek-malviya-git\GenAI - SmartOps Integrated Platform - Copy\data\temp
+2025-03-31 20:50:06,781 - INFO - Resolved LOG_DIR path: C:\Users\Dell\Documents\abhishek-malviya-git\GenAI - SmartOps Integrated Platform - Copy\logs\monitoring_scripts
+2025-03-31 20:54:20,327 - INFO - Resolved TEMP_FOLDER path: C:\Users\Dell\Documents\abhishek-malviya-git\GenAI - SmartOps Integrated Platform - Copy\data\temp
+2025-03-31 20:54:20,327 - INFO - Resolved LOG_DIR path: C:\Users\Dell\Documents\abhishek-malviya-git\GenAI - SmartOps Integrated Platform - Copy\logs\monitoring_scripts
+2025-03-31 21:00:40,048 - INFO - Resolved TEMP_FOLDER path: C:\Users\Dell\Documents\abhishek-malviya-git\GenAI - SmartOps Integrated Platform - Copy\data\temp
+2025-03-31 21:00:40,048 - INFO - Resolved LOG_DIR path: C:\Users\Dell\Documents\abhishek-malviya-git\GenAI - SmartOps Integrated Platform - Copy\logs\monitoring_scripts
+2025-03-31 21:09:30,338 - INFO - Resolved TEMP_FOLDER path: C:\Users\Dell\Documents\abhishek-malviya-git\GenAI - SmartOps Integrated Platform - Copy\data\temp
+2025-03-31 21:09:30,338 - INFO - Resolved LOG_DIR path: C:\Users\Dell\Documents\abhishek-malviya-git\GenAI - SmartOps Integrated Platform - Copy\logs\monitoring_scripts
+2025-03-31 21:15:52,904 - INFO - Resolved TEMP_FOLDER path: C:\Users\Dell\Documents\abhishek-malviya-git\GenAI - SmartOps Integrated Platform - Copy\data\temp
+2025-03-31 21:15:52,908 - INFO - Resolved LOG_DIR path: C:\Users\Dell\Documents\abhishek-malviya-git\GenAI - SmartOps Integrated Platform - Copy\logs\monitoring_scripts
+2025-03-31 21:18:11,073 - INFO - Resolved TEMP_FOLDER path: C:\Users\Dell\Documents\abhishek-malviya-git\GenAI - SmartOps Integrated Platform - Copy\data\temp
+2025-03-31 21:18:11,073 - INFO - Resolved LOG_DIR path: C:\Users\Dell\Documents\abhishek-malviya-git\GenAI - SmartOps Integrated Platform - Copy\logs\monitoring_scripts
+2025-03-31 21:21:18,538 - INFO - Resolved TEMP_FOLDER path: C:\Users\Dell\Documents\abhishek-malviya-git\GenAI - SmartOps Integrated Platform - Copy\data\temp
+2025-03-31 21:21:18,538 - INFO - Resolved LOG_DIR path: C:\Users\Dell\Documents\abhishek-malviya-git\GenAI - SmartOps Integrated Platform - Copy\logs\monitoring_scripts
+2025-03-31 21:22:10,966 - INFO - Resolved TEMP_FOLDER path: C:\Users\Dell\Documents\abhishek-malviya-git\GenAI - SmartOps Integrated Platform - Copy\data\temp
+2025-03-31 21:22:10,966 - INFO - Resolved LOG_DIR path: C:\Users\Dell\Documents\abhishek-malviya-git\GenAI - SmartOps Integrated Platform - Copy\logs\monitoring_scripts
+2025-03-31 21:23:36,827 - INFO - Resolved TEMP_FOLDER path: C:\Users\Dell\Documents\abhishek-malviya-git\GenAI - SmartOps Integrated Platform - Copy\data\temp
+2025-03-31 21:23:36,827 - INFO - Resolved LOG_DIR path: C:\Users\Dell\Documents\abhishek-malviya-git\GenAI - SmartOps Integrated Platform - Copy\logs\monitoring_scripts

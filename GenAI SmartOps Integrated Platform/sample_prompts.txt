@@ -1,0 +1,26 @@
+I am facing "Windows Server update failure issue" what is resolution for it?
+
+Give me list of high impact incidents id only?
+
+Can you give me environment and support group for database PHSAO23 ?
+
+What is state of Change number CHG-085 ?
+
+What is status of devices WLJP09W11 ?
+
+What is location and environment of above device?
+
+What is count of production devices?
+
+Give me there names only?
+
+Agent
+
+What is the Memory usage of system ?
+Please troubleshoot slow response on dbserver03?
+Please get me statistics of server WRRSS03W531 ?
+Server webserver01 is down, please fix the issue?
+Application Server Appserver02 is unresponsive, take action?
+The temporary folder seems to be full please clean up?
+
+ 
